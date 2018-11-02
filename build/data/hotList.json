@@ -1,0 +1,29 @@
+[{
+    "goodId":3001,
+    "src":"/image/hot1.jpg",
+    "name":"德国进口",
+    "rule":"纯牛奶200ml*48盒",
+    "price":189,
+    "size":"26R"
+},{
+    "goodId":3002,
+    "src":"/image/hot2.jpg",
+    "name":"德国进口",
+    "rule":"纯牛奶200ml*48盒",
+    "price":219,
+    "size":"26R"
+},{
+    "goodId":3003,
+    "src":"/image/hot3.jpg",
+    "name":"德国进口",
+    "rule":"纯牛奶200ml*48盒",
+    "price":140,
+    "size":"26R"
+},{
+    "goodId":3004,
+    "src":"/image/hot4.jpg",
+    "name":"德国进口",
+    "rule":"纯牛奶200ml*48盒",
+    "price":390,
+    "size":"26R"
+}]

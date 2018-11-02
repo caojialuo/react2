@@ -1,0 +1,46 @@
+[{
+    "goodId":4001,
+    "name":"进口 · 生鲜",
+    "price":48,
+    "src":"/image/ht_1.jpg"
+},{
+    "goodId":4002,
+    "name":"进口 · 生鲜",
+    "price":148,
+    "src":"/image/ht_2.jpg"
+},{
+    "goodId":4003,
+    "name":"进口 · 生鲜",
+    "price":248,
+    "src":"/image/ht_3.jpg"
+},{
+    "goodId":4004,
+    "name":"进口 · 生鲜",
+    "price":348,
+    "src":"/image/ht_4.jpg"
+},{
+    "goodId":4005,
+    "name":"进口 · 生鲜",
+    "price":448,
+    "src":"/image/ht_5.jpg"
+},{
+    "goodId":4006,
+    "name":"进口 · 生鲜",
+    "price":548,
+    "src":"/image/ht_6.jpg"
+},{
+    "goodId":4007,
+    "name":"进口 · 生鲜",
+    "price":648,
+    "src":"/image/ht_7.jpg"
+},{
+    "goodId":4008,
+    "name":"进口 · 生鲜",
+    "price":748,
+    "src":"/image/ht_8.jpg"
+},{
+    "goodId":4009,
+    "name":"进口 · 生鲜",
+    "price":848,
+    "src":"/image/ht_9.jpg"
+}]

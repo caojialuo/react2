@@ -1,0 +1,43 @@
+[{
+    "goodId":1001,
+    "src":"/image/like_1.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":189,
+    "size":"26R"
+},{
+    "goodId":1002,
+    "src":"/image/like_2.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":219,
+    "size":"26R"
+},{
+    "goodId":1003,
+    "src":"/image/like_3.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":140,
+    "size":"26R"
+},{
+    "goodId":1004,
+    "src":"/image/like_4.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":390,
+    "size":"26R"
+},{
+    "goodId":1005,
+    "src":"/image/like_5.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":599,
+    "size":"26R"
+},{
+    "goodId":1006,
+    "src":"/image/like_6.jpg",
+    "name":"德国进口",
+    "rule":"德亚全脂纯牛奶200ml*48盒",
+    "price":199,
+    "size":"26R"
+}]

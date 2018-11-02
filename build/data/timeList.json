@@ -1,0 +1,16 @@
+[{
+    "goodId":2001,
+    "src":"/image/s1.jpg",
+    "price":289,
+    "name":"保健品"
+},{
+    "goodId":2002,
+    "src":"/image/s2.jpg",
+    "price":189,
+    "name":"SK-II"
+},{
+    "goodId":2003,
+    "src":"/image/s3.jpg",
+    "price":89,
+    "name":"零食月饼"
+}]
